@@ -12,6 +12,6 @@ design:
   columns: "2"
   background:
     image: /static/media/tls_embryo_naked.jpg
-hero_media: tls_embryo_naked.jpg
+hero_media: stembryo1.jpg
 ---
 *We reconstruct embryonic development in a dish to understand how the embryo builds itself*
