@@ -3,7 +3,7 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: How is a mammalian embryo shaped?
+widget_id: Title
 headless: true
 weight: 10
 title: How is a mammalian embryo shaped?
