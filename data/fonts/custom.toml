@@ -5,7 +5,7 @@ name = "custom"
 google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "Newsreader"
-body_font = "Newsreader"
-nav_font = "Newsreader"
-mono_font = "Newsreader"
+heading_font = "Benne"
+body_font = "Benne"
+nav_font = "Benne"
+mono_font = "Benne"
