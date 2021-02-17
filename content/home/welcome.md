@@ -6,7 +6,7 @@ widget: hero
 widget_id: Title
 headless: true
 weight: 10
-title: How is a mammalian embryo shaped?
+title: Title
 subtitle: ""
 design:
   columns: "1"
