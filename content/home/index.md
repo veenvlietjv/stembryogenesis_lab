@@ -1,7 +1,10 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: blank
+widget_id: stembryopic
 headless: true
+weight: 10
+design:
+  background:
+    image: /static/media/stembryo1.jpg
 ---
