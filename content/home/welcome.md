@@ -9,7 +9,7 @@ weight: 10
 title: How is a mammalian embryo shaped?
 subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: /static/media/tls_embryo_naked.jpg
 hero_media: stembryo1.jpg
