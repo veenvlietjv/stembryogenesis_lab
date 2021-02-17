@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "2"
   background:
-    image: /static/media/contact.jpg
+    image: /static/media/screenshot-2021-02-16-at-10.54.32.png
 hero_media: welcome.jpg
 ---
 *We reconstruct embryonic development in a dish to understand how the embryo builds itself*
